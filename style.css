@@ -73,7 +73,7 @@ article {
      box-sizing:border-box;
 }
 
-main h2 {
+main h2 a {
        color:#fff;
     padding:0.5rem;
     border:2px solid ;
