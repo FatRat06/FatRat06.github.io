@@ -1,0 +1,93 @@
+header h1 {
+    color: #fff;
+    background-color: gray;
+    padding:1.5rem;
+    font-size:1.5rem;
+    display:flex;
+    border:10px solid orange; 
+    /*font-family: Arial, Helvetica, Sans-Serif*/
+    
+}
+
+ul {
+list-style-type: none;
+padding-left: 1rem;
+}
+
+nav ul li {
+    background-color:orange;
+    color:#fff;
+    padding:0.5rem;
+    margin-bottom:0.5rem;
+    /*font-family: Georgia, Times New Roman, Sans-Serif;*/
+}
+
+nav ul li a {
+    color:#fff;
+    padding:0.5rem;
+    border:2px solid green;
+    background-color: green;
+    display:inline-block;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    box-shadow: #000 5px 5px 10px 0px;
+    
+}
+
+article section ul li {
+    background-color: orange;
+padding-left: 1.5rem;  
+    color:white;
+    margin-bottom:0.5rem;
+   margin-right: 0.95rem
+
+    
+}
+
+article section h2 {
+    background-color:orange;
+    color:white;
+    border:1px solid orange;
+    text-align: center;
+    margin-left: 0.95rem;
+    margin-right: 0.95rem
+    
+}
+
+article {
+     border: 2px solid rgb(212, 116, 5);
+     padding: 1rem;
+     
+}
+
+article section {
+    width: 420px;
+    border: 2px solid rgb(212, 116, 5);
+    
+    
+}
+
+article {
+    display: flex;
+    justify-content:space-between;
+     box-sizing:border-box;
+}
+
+main h2 {
+       color:#fff;
+    padding:0.5rem;
+    border:2px solid ;
+    background-color: green;
+    display:inline-block;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    box-shadow: #000 5px 5px 10px 0px;
+    /*font-family:Georgia, Times New Roman, Sans-serif;*/
+ 
+    
+    
+}
+
+body {
+    background-color:#caffb9;
+}
