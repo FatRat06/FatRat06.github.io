@@ -56,7 +56,11 @@ article section h2 {
 
 article {
      border: 2px solid rgb(212, 116, 5);
-     padding: 1rem;
+     padding: 1.5rem;
+     display: flex;
+    justify-content:space-between;
+    box-sizing:border-box;
+    
      
 }
 
@@ -67,11 +71,7 @@ article section {
     
 }
 
-article {
-    display: flex;
-    justify-content:space-between;
-     box-sizing:border-box;
-}
+
 
 main h2 a {
        color:#fff;
